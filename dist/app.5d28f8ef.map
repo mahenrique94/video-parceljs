@@ -1,0 +1,1 @@
+{"version":3,"sources":["assets/js/app.ts"],"names":[],"mappings":";AAAA,SAAS,cAAc,aAAa,iBAAiB,QAAS,WAAM,OAAA,QAAQ,IAAI","file":"app.5d28f8ef.map","sourceRoot":"..","sourcesContent":["document.querySelector('.js-myBtn').addEventListener('click', () => console.log('Cliquei TS'))"]}

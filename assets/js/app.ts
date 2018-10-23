@@ -1,0 +1,1 @@
+document.querySelector('.js-myBtn').addEventListener('click', () => console.log('Cliquei TS'))
